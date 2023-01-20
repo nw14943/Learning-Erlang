@@ -23,6 +23,6 @@ I used [Visual Studio Code](https://code.visualstudio.com/) with the erlang exte
 
 # Future Work
 
-* Item 1
-* Item 2
-* Item 3
+* Demonstrate throwing and handling exceptions
+* Create process and send messages to the process
+* Use the case of coding block
