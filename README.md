@@ -16,8 +16,10 @@ I used [Visual Studio Code](https://code.visualstudio.com/) with the erlang exte
 
 # Useful Websites
 
-* [Erlang Official Website](https://www.erlang.org/)
-* [Erlang Wikipedia](https://en.wikipedia.org/wiki/Erlang_(programming_language))
+* [Official Website](https://www.erlang.org/)
+* [Official Documentation](https://www.erlang.org/doc/apps/stdlib/index.html)
+* [Wikipedia](https://en.wikipedia.org/wiki/Erlang_(programming_language))
+* [Examples](https://erlangbyexample.org/)
 
 # Future Work
 
