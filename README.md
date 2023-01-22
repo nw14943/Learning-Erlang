@@ -6,7 +6,7 @@ Because this is an exploration of a new language, I plan to include useful links
 
 A 4-5 minute demo of the software running and a walkthrough of the code focused on what I learned about the language and syntax.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2u40HVEJ6R4)
 
 # Development Environment
 
